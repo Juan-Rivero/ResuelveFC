@@ -36,6 +36,6 @@ Se encuentran en “source\src\main”. La carpeta source se puede importar como
 
 Se abrirá una terminal de Windows donde tendremos que ubicarnos con el comando cd en la carpeta de instalación de ResuelveFC.jar
 
-### 3. java -jar ResuelveFC.jar [fichero.json]
+### 3. ```java -jar ResuelveFC.jar [fichero.json]```
 
 En la propia carpeta hay un json que el programa coge por defecto. Pero también se le puede especificar un fichero.
